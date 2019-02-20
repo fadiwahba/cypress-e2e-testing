@@ -1,5 +1,5 @@
 describe("Form test", function() {
-  const baseURL = "http://127.0.0.1:62589/src/index.html";
+  const baseURL = "/src/index.html";
 
   beforeEach(function() {
     cy.visit(baseURL);
