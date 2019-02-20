@@ -1,2 +1,2 @@
 # cypress-e2e-testing
-Frontend testing with cypress
+Frontend E2E testing with cypress

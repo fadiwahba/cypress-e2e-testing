@@ -1,0 +1,26 @@
+{
+  "name": "cypress-e2e-testing",
+  "version": "1.0.0",
+  "description": "frontend testing with cypress",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fadiwahba/cypress-e2e-testing.git"
+  },
+  "keywords": [
+    "cypress",
+    "testing"
+  ],
+  "author": "http://fadysoliman.name",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fadiwahba/cypress-e2e-testing/issues"
+  },
+  "homepage": "https://github.com/fadiwahba/cypress-e2e-testing#readme",
+  "dependencies": {
+    "cypress": "^3.1.5"
+  }
+}
